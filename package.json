@@ -1,0 +1,16 @@
+{
+  "name": "chess-console",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Muhammad Reza Firmansyah",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.1.1"
+  }
+}
